@@ -1,7 +1,7 @@
 {
-  "name": "src",
+  "name": "server",
   "version": "1.0.0",
-  "description": "server side programming of airbnb",
+  "description": "server side programming",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,8 +11,8 @@
     "url": "airbnb_project"
   },
   "keywords": [
-    "server",
-    "backend"
+    "backend",
+    "server"
   ],
   "author": "Aniket Srivastava",
   "license": "ISC",
